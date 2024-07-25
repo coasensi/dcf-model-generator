@@ -1,4 +1,4 @@
-## Sample code for a DCF model generator.
+## Sample code to generate DCF models.
 
 inputs: 
 
