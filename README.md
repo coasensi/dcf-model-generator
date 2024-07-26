@@ -8,7 +8,7 @@ beta
 market_return  
 cost_of_debt  
 tax_rate  
-growth_rate  
+growth_rate
 terminal_growth_rate  
 years  
 
