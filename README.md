@@ -2,7 +2,7 @@
 
 inputs: 
 
-symbol  
+symbol
 alpha_vantage api_key  
 beta  
 market_return  
