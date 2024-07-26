@@ -3,7 +3,7 @@
 inputs: 
 
 symbol
-alpha_vantage api_key  
+alpha_vantage api_key
 beta  
 market_return  
 cost_of_debt  
