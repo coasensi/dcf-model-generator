@@ -4,9 +4,9 @@ inputs:
 
 symbol
 alpha_vantage api_key
-beta  
-market_return  
-cost_of_debt  
+beta
+market_return
+cost_of_debt
 tax_rate  
 growth_rate
 terminal_growth_rate  
