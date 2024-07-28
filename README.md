@@ -14,7 +14,7 @@ years
 
 outputs:
 
-Free Cash Flow  
+Free Cash Flow 
 Risk-Free Rate  
 Cost of Equity  
 WACC  
