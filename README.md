@@ -20,6 +20,6 @@ Cost of Equity
 WACC  
 Future FCFs  
 Terminal Value  
-Discounted FCFs  
+Discounted FCFs
 Discounted Terminal Value  
 DCF Valuation
