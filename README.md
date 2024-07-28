@@ -17,7 +17,7 @@ outputs:
 Free Cash Flow 
 Risk-Free Rate  
 Cost of Equity  
-WACC  
+WACC
 Future FCFs  
 Terminal Value  
 Discounted FCFs
